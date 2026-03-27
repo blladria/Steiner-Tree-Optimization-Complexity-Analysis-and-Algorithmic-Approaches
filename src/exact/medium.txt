@@ -1,0 +1,26 @@
+# Medium difficulty: 10 vertices, more Steiner vertices
+# Expected time: ~1-5 seconds
+10
+0,3,7
+1,2,4,5,6,8,9
+0 1 5
+0 2 8
+0 3 2
+1 2 3
+1 4 6
+1 5 4
+2 3 7
+2 4 9
+2 6 5
+3 5 3
+3 7 1
+4 5 2
+4 6 8
+4 8 7
+5 6 1
+5 9 6
+6 7 4
+6 8 3
+7 8 2
+7 9 5
+8 9 1
